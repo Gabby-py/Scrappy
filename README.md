@@ -9,6 +9,12 @@ The other files are present because im offering this FOSS's (Free, Open-Source S
 
 Hopefully you enjoy using it.
 
+Dependencies (pip packages):
+* winotify
+* bs4
+* markdownify
+* requests
+
 This has been stress tested against the following websites:
 * Random BBC Sport F1 article - works nicely
 * example.com - works nicely ofc
