@@ -1,5 +1,5 @@
 # Scrappy
-Scrappy is a GUI URL Scrapper to HTML and Markdown made by Gabby (aka gabibi, g4b1b1) in Python
+Scrappy is a Windows-only GUI URL Scrapper to HTML and Markdown made by Gabby (aka gabibi, g4b1b1) in Python
 
 The file "scrappy.py" can be used standalone without the TrueType-Font files (.ttf)
     or the other TTF-to-Base64 converter (ttfToB64.py).
