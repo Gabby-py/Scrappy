@@ -10,16 +10,17 @@ The other files are present because im offering this FOSS's (Free, Open-Source S
     (basically what has been used to make this piece of software.)
 
 Hopefully you enjoy using it.
+
 ## Scrappy has been tested on:
 ### Windows 11 25H2
 ### Debian 13 (Trixie)
 ### macOS 10.15 (Catalina
 
-Dependencies (pip packages):
-* winotify
-* bs4
-* markdownify
-* requests
+##Dependencies (pip packages):
+###* winotify (for Windows)
+###* bs4
+###* markdownify
+###* requests
 
 This has been stress tested against the following websites:
 * Random BBC Sport F1 article - works nicely
