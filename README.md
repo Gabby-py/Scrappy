@@ -14,7 +14,7 @@ Hopefully you enjoy using it.
 ## Scrappy has been tested on:
 ### Windows 11 25H2
 ### Debian 13 (Trixie)
-### macOS 10.15 (Catalina
+### macOS 10.15 (Catalina)
 
 ## Dependencies (pip packages):
 ### * winotify (for Windows)
