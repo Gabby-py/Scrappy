@@ -23,23 +23,23 @@ Hopefully you enjoy using it.
 - `requests`
 
 ### This has been stress tested against the following websites:
-#### - Random BBC Sport F1 article
+* **Random BBC Sport F1 article**
   Works nicely. No errors.
-#### - example.com
+* **example.com**
   Obviously this works.
-#### - Github DOOM 3 repository
+* **Github DOOM 3 repository**
   Works. No errors either. Expected worse :)
-#### - Google search on 'how to pet cats'
+* **Google search on 'how to pet cats'**
   Worksn't. It does not display anything, and the file barely has anything. Google probably tries getting results from its own servers.
-#### - MDN doc on HTML
+* **MDN doc on HTML**
   Works beautimusly.
-#### - Oracle Java Help Center
+* **Oracle Java Help Center**
   Also works beautimusly. Somehow.
-#### - Reddit MGS2 post
+* **Reddit MGS2 post**
   Worksn't like Google search. Same probable cause.
-#### - Wikipedia Walrus article
+* **Wikipedia Walrus article**
   403.
-#### - Stack Overflow "what is if \_\_name\_\_ == "\_\_main\_\_" mean?"
+* **Stack Overflow "what does if \_\_name\_\_ == "\_\_main\_\_" mean?"**
   403 again.
-#### - W3Schools Python tutorial
-  403: An Error's End.
+* **W3Schools Python tutorial**
+  403: *An Error's End*
