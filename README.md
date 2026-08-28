@@ -22,12 +22,12 @@ Hopefully you enjoy using it.
 ### * markdownify
 ### * requests
 
-This has been stress tested against the following websites:
-* Random BBC Sport F1 article - works nicely
-* example.com - works nicely ofc
-* Github DOOM 3 repository - works nicely
-* Google search on 'how to pet cats' - works partially, because google fetches results from its servers, and the results are not stored in HTML or MD
-* MDN doc on HTML - works nicely
+## This has been stress tested against the following websites:
+###  Random BBC Sport F1 article `works nicely`
+### * example.com `works nicely ofc`
+### * Github DOOM 3 repository `works nicely`
+### * Google search on 'how to pet cats' `works partially, because google fetches results from its servers, and the results are not stored in HTML or MD`
+### * MDN doc on HTML `works nicely`
 * Oracle Java Help Center - works nicely
 * Reddit MGS2 post - worked also partially, because like Google, it tries to fetch the post from its servers
 * Wikipedia Walrus article - did not work (403)
