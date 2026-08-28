@@ -16,11 +16,11 @@ Hopefully you enjoy using it.
 ### Debian 13 (Trixie)
 ### macOS 10.15 (Catalina
 
-##Dependencies (pip packages):
-###* winotify (for Windows)
-###* bs4
-###* markdownify
-###* requests
+## Dependencies (pip packages):
+### * winotify (for Windows)
+### * bs4
+### * markdownify
+### * requests
 
 This has been stress tested against the following websites:
 * Random BBC Sport F1 article - works nicely
