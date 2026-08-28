@@ -1,7 +1,7 @@
 # Scrappy
 [Support me on Ko-fi!](https://ko-fi.com/g4bibi)
 
-Scrappy is a Windows-only GUI URL Scrapper to HTML and Markdown made by Gabby (aka gabibi, g4b1b1) in Python
+Scrappy is a GUI URL Scrapper to HTML and Markdown made by Gabby (aka gabibi, g4b1b1) in Python 3
 
 The file "scrappy.py" can be used standalone without the TrueType-Font files (.ttf)
     or the other TTF-to-Base64 converter (ttfToB64.py).
@@ -10,6 +10,10 @@ The other files are present because im offering this FOSS's (Free, Open-Source S
     (basically what has been used to make this piece of software.)
 
 Hopefully you enjoy using it.
+## Scrappy has been tested on:
+### Windows 11 25H2
+### Debian 13 (Trixie)
+### macOS 10.15 (Catalina
 
 Dependencies (pip packages):
 * winotify
