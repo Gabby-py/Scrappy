@@ -1,5 +1,6 @@
 # Scrappy
-![Support me on Ko-fi!](https://ko-fi.com/g4bibi)
+[Support me on Ko-fi!](https://ko-fi.com/g4bibi)
+
 Scrappy is a Windows-only GUI URL Scrapper to HTML and Markdown made by Gabby (aka gabibi, g4b1b1) in Python
 
 The file "scrappy.py" can be used standalone without the TrueType-Font files (.ttf)
