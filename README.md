@@ -24,22 +24,22 @@ Hopefully you enjoy using it.
 
 ### This has been stress tested against the following websites:
 * **Random BBC Sport F1 article**
-  Works nicely. No errors.
+  <br>&emsp;Works nicely. No errors.
 * **example.com**
-  Obviously this works.
+  <br>&emsp;Obviously this works.
 * **Github DOOM 3 repository**
-  Works. No errors either. Expected worse :)
+  <br>&emsp;Works. No errors either. Expected worse :)
 * **Google search on 'how to pet cats'**
-  Worksn't. It does not display anything, and the file barely has anything. Google probably tries getting results from its own servers.
+  <br>&emsp;Worksn't. It does not display anything, and the file barely has anything. Google probably tries getting results from its own servers.
 * **MDN doc on HTML**
-  Works beautimusly.
+  <br>&emsp;Works beautimusly.
 * **Oracle Java Help Center**
-  Also works beautimusly. Somehow.
+  <br>&emsp;Also works beautimusly. Somehow.
 * **Reddit MGS2 post**
-  Worksn't like Google search. Same probable cause.
+  <br>&emsp;Worksn't like Google search. Same probable cause.
 * **Wikipedia Walrus article**
-  403.
+  <br>&emsp;403.
 * **Stack Overflow "what does if \_\_name\_\_ == "\_\_main\_\_" mean?"**
-  403 again.
+  <br>&emsp;403 again.
 * **W3Schools Python tutorial**
-  403: *An Error's End*
+  <br>&emsp;403: *An Error's End*
